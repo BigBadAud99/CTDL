@@ -13,7 +13,6 @@ const roleIconMap = {
     helper: "user-shield",
     dev: "code",
     trial: "user-lock",
-    patreon: "patreon",
 };
 
 export default {
@@ -187,7 +186,6 @@ export default {
     data: () => ({
         list: [],
         editors: [],
-        supporters: [],
         loading: true,
         selected: 0,
         errors: [],
@@ -202,7 +200,6 @@ export default {
     async mounted() {
         this.list = await fetchList();
         this.editors = await fetchEditors();
-        this.supporters = await fetchSupporters();
 
         // Error handling
         if (!this.list) {
@@ -219,9 +216,6 @@ export default {
             );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.");
-            }
-            if (!this.supporters) {
-                this.errors.push("Failed to load supporters.");
             }
         }
 
