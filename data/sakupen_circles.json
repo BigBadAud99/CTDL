@@ -4,7 +4,7 @@
     "tags": [
       "circles"
     ],
-    "author": "Nick24",
+    "author": "DiamondGD",
     "creators": [
       "DrCuber",
       "korewa",
@@ -21,8 +21,9 @@
     "records": [
 		{
 			"user": "Cursed",
-			"link": "https://youtube.com/@cursed6125?si=iNZhO6ugp7v3-Koz",
-			"percent": 100
+			"link": "https://youtu.be/VKbsTIFSKP4?si=Zp9s4lEV8BgRv9t-",
+			"percent": 100,
+            "hz": 360
 		}
     ]
 }
