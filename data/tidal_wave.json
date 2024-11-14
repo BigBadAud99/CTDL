@@ -1,6 +1,11 @@
 {
     "id": 1002,
     "name": "Tidal Wave",
+    "tags": [
+        "2.1",
+        "fast-paced",
+        "beach-themed"
+    ],
     "author": "OniLink",
     "creators": [],
     "verifier": "Zoink",
@@ -11,7 +16,8 @@
 		{
 			"user": "Zoink",
 			"link": "https://youtube.com/@zoink?si=ir4mZLW-es7-R8NR",
-			"percent": 100
+			"percent": 100,
+            "hz": 360
 		}
     ]
 }
