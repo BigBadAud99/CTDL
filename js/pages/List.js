@@ -104,7 +104,6 @@ export default {
                                 </li>
                             </ol>
                         </ol>
-                        <h3 align="center">Supporters</h3>
                         <ol class="editors">
                             <ol class="rank" v-for="rank in supporters">
                                 <li v-for="member in rank.members">
