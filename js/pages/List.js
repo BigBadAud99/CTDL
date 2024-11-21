@@ -114,50 +114,50 @@ export default {
                             </ol>
                         </ol>
                     </template>
-                     <h3>> How to Submit Records</h3>
+                     <h3>> Cara mengirim rekor</h3>
                     <p>
-                        Join our discord server, and  use /record submit
+                        Gabung server discord kita, verifikasi, cari channel #📩｜kirim-rekor dan klik text biru
                     </p>
-                    <h3>> Submission Requirements</h3>
+                    <h3>> Persyaratan pengiriman</h3>
                     <p>
-                        When submitting your record, please ensure that it complies with the following guidelines:
+                        Saat mengirim rekor mu, pastikan bahwa itu mematuhi aturan berikut:
                     </p>
                     <p>
-                        - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
+                        - Rekor mu harus memiliki penyelesaian lengkap dari 0-100 (tergantung berapa % atau keatas untuk kualifikasi) tanpa potongan (jika kamu membuat pemotongan pada video yang kamu kirimkan, sertakan rekaman mentah yang tidak ada potongan).
                     </p>
                      <p>
-                        - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
+                        - Rekor mu harus memiliki sejumlah attempts sebelumnya (satu kematian pada 1% tidaklah cukup, cobalah untuk mencapai level yang lebih jauh. Catatan Everplay dikecualikan dari hal ini).  
                     </p>
 
                     <p>
-                        - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
+                        - Pastikan Anda mengalahkan level yang ditampilkan di situs (atau versi LDM yang disetujui, untuk referensi, periksa ID level untuk memastikan kamu memainkan level yang benar).
                     </p>
                     <p>
-                        - The record has been achieved without using a secret way or a bugged route
+                        - Jangan menggunakan rute rahasia atau rute bug.
                     </p>
                     <p>
-                        - Cheat Indicator is required if you are using a mod menu that supports one, like Megahack v8.
+                        - Cheat Indicator diperlukan jika kamu menggunakan mod menu yang mendukungnya, seperti Megahack v7.
                     </p>
                     <p>
-                        - End stats (The whole box must appear for at least one frame)
+                        - End stats (seluruh kotak harus muncul setidaknya untuk satu frame)
                     </p>
                     <p>
-                        - FPS/TPS counter is required on 2.1 GDPS up to 360 fps/tps
+                        - FPS/TPS counter diperlukan
                     </p>
                     <p>
-                        - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
+                        - Suara klik (Jika tidak, atau jika hanya terjadi pada sebagian level dan tidak sepanjang permainan, kamu harus menyediakan rekaman mentah dengan klik. Pemain mobile TIDAK dikecualikan dari aturan ini, rekaman taps, atau klik external diperlukan.)
                     </p>
                     <p>
-                        - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
+                        - Jangan menggunakan mode easy, hanya rekaman level yang tidak dimodifikasi yang memenuhi syarat
                     </p>
                     <p>
-                        - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
+                        - Pastikan kamu bermain di versi 2.2 atau keatas
                     </p>
                     <p>
-                        - You always need handcam for every level that is listed as "(Solo)" on the list.
+                        - Setelah level jatuh ke Legacy List, kami menerima rekor untuknya selama 24 jam setelah jatuh, kemudian setelah itu kami tidak pernah menerima rekor untuk level tersebut.
                     </p>
                     <p>
-                        - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
+                        - Ada beberapa mod/hacks yg tidak boleh digunakan saat merekam level, baca <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=drivesdk">sheet</a> ini untuk melihat apa saja mod/hack yg diperbolehkan dan tidak diperbolehkan. Untuk mod geode, <a href="https://docs.google.com/spreadsheets/d/1N0UeSHTm7jCLOrS8fiSi1YYpcFHSdD40nvnBXLwaPys/edit?usp=sharing">baca ini.</a>
                     </p>
                     <h3>> Why was my record denied?</h3>
                     <p>
