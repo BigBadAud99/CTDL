@@ -116,7 +116,7 @@ export default {
                     </template>
                      <h3>> Cara mengirim rekor</h3>
                     <p>
-                        Gabung server discord kita, verifikasi, cari channel #📩｜kirim-rekor dan klik text biru
+                        Gabung server discord kita, verifikasi, cari channel #📩｜kirim-rekor dan klik link formulirnya.
                     </p>
                     <h3>> Persyaratan pengiriman</h3>
                     <p>
@@ -130,7 +130,7 @@ export default {
                     </p>
 
                     <p>
-                        - Pastikan Anda mengalahkan level yang ditampilkan di situs (atau versi LDM yang disetujui, untuk referensi, periksa ID level untuk memastikan kamu memainkan level yang benar).
+                        - Pastikan kamu mengalahkan level yang ditampilkan di situs (atau versi LDM yang disetujui, untuk referensi, periksa ID level untuk memastikan kamu memainkan level yang benar).
                     </p>
                     <p>
                         - Jangan menggunakan rute rahasia atau rute bug.
@@ -145,10 +145,10 @@ export default {
                         - FPS/TPS counter diperlukan
                     </p>
                     <p>
-                        - Suara klik (Jika tidak, atau jika hanya terjadi pada sebagian level dan tidak sepanjang permainan, kamu harus menyediakan rekaman mentah dengan klik. Pemain mobile TIDAK dikecualikan dari aturan ini, rekaman taps, atau klik external diperlukan.)
+                        - Suara klik (Jika tidak, atau jika hanya terjadi pada sebagian level dan tidak sepanjang permainan, kamu harus menyediakan rekaman mentah dengan klik). Pemain mobile TIDAK dikecualikan dari aturan ini, rekaman taps, atau klik external diperlukan.
                     </p>
                     <p>
-                        - Jangan menggunakan mode easy, hanya rekaman level yang tidak dimodifikasi yang memenuhi syarat
+                        - Jangan menggunakan mode mudah, hanya rekaman level yang tidak dimodifikasi yang memenuhi syarat
                     </p>
                     <p>
                         - Pastikan kamu bermain di versi 2.2 atau keatas
@@ -159,24 +159,24 @@ export default {
                     <p>
                         - Ada beberapa mod/hacks yg tidak boleh digunakan saat merekam level, baca <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=drivesdk">sheet</a> ini untuk melihat apa saja mod/hack yg diperbolehkan dan tidak diperbolehkan. Untuk mod geode, <a href="https://docs.google.com/spreadsheets/d/1N0UeSHTm7jCLOrS8fiSi1YYpcFHSdD40nvnBXLwaPys/edit?usp=sharing">baca ini.</a>
                     </p>
-                    <h3>> Why was my record denied?</h3>
+                    <h3>> Mengapa rekor saya ditolak?</h3>
                     <p>
-                        If your record was denied, please check the following:
+                        Jika rekor kamu ditolak, silahkan cek berikut ini:
                     </p>
                     <p>
-                        Does the video meet the requirements? (Above)
+                        Apakah video tersebut memenuhi persyaratan? (Di atas)
                     </p>
                     <p>
-                        Is the level placed on the list? (#pending-changes)
+                        Apakah level ditempatkan pada daftar?? (#🔄｜perubahan-tunda)
                     </p>
                     <p>
-                        Was the submission command filled out correctly?
+                        Apakah perintah pengiriman sudah diisi dengan benar??
                     </p>
                     <p>
-                        Was the record submitted with several links?
+                        Apakah rekaman tersebut dikirimkan dengan beberapa tautan?
                     </p>
                     <p>
-                        Note: You will be pinged in #records with the reason why your record was denied. If you are still unsure of why it was denied, or if the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
+                        Catatan: kamu akan diberi ping di #⏺️｜rekors dengan alasan mengapa rekaman kamu ditolak. Jika kamu masih tidak yakin mengapa ditolak, atau jika rekaman ditolak secara salah, silakan buat postingan di #⚠️｜isu atau DM ke staf daftar mana pun di Discord.
                     </p>
                 </div>
             </div>
