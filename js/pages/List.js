@@ -57,7 +57,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Kata sansi</div>
+                            <div class="type-title-sm">Kata sandi</div>
                             <p>{{ level.password || 'Bebas Copy' }}</p>
                         </li>
                     </ul>
