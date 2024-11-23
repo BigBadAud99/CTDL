@@ -1,6 +1,6 @@
 import { store } from "../main.js";
 import { embed, getFontColour } from "../util.js";
-import { score } from "../score.js";
+import { score } from "./js/score.js";
 import { fetchEditors, fetchSupporters, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
