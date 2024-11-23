@@ -49,7 +49,7 @@ export default {
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
-                            <div class="type-title-sm">Points when completed</div>
+                            <div class="type-title-sm">Poin saat selesai</div>
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
@@ -57,13 +57,13 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Kata sansi</div>
+                            <p>{{ level.password || 'Bebas Copy' }}</p>
                         </li>
                     </ul>
-                    <h2>Records</h2>
-                    <p v-if="selected + 1 <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else>100% or better to qualify</p>
+                    <h2>Rekor</h2>
+                    <p v-if="selected + 1 <= 150"><strong>{{ level.percentToQualify }}%</strong> atau lebih baik untuk terkualifikasi</p>
+                    <p v-else>100% atau lebih baik untuk terkualifikasi</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
